@@ -35,17 +35,17 @@ nothing to commit, working tree clean
 
 ## Arrival Information
 
-- Transit or parking: Visitors can take public transportation to BMCC and use nearby subway or bus routes to reach the campus.
+- Transit or parking: Visitors can take the subway or bus to reach the BMCC campus. Visitors who drive should use a nearby public parking garage.
 - Entrance or meeting location: Visitors should meet at the main entrance of BMCC before entering the festival area.
 
 ## Accessibility Information
 
-1. The festival location should provide accessible entrances and elevators for visitors with mobility needs.
-2. Visitors who need additional assistance should be able to request accommodations from festival staff.
+1. The festival location should provide accessible entrances, elevators, and accessible restrooms for visitors with mobility needs.
+2. Visitors who need additional assistance or accommodations should contact festival staff at the main entrance.
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+Keep personal belongings secure, follow festival staff instructions, stay aware of your surroundings, and arrive early to allow enough time to find the entrance.
 
 ## GitHub Verification
 
