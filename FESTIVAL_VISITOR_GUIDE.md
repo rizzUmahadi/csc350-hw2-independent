@@ -49,7 +49,7 @@ Keep personal belongings secure, follow festival staff instructions, stay aware 
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+Verified on GitHub by Riyaj Uddin.
 
 ## Commit Evidence
 
