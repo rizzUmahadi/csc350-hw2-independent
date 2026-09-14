@@ -2,43 +2,46 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Riyaj Uddin
+- Course and section: CSC350 Honors
+- Date: 09/13/2026
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: * main
+- Personal Homework 2 GitHub URL: [\[Repository URL\]](https://github.com/rizzUmahadi/csc350-hw2-independent)
+
+- Starting `git status`: On branch main
+nothing to commit, working tree clean
+
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: Brooklyn Innovation and Culture Festival
+- Location: BMCC Campus, New York City
+- Intended audience: Students, families, local community members, and technology enthusiasts
+- Theme: A celebration of creativity, technology, culture, and community innovation.
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   The saved change currently lives in my local working directory on my computer.
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   No. The change has only been saved in the file and has not been staged or committed yet.
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: Visitors can take public transportation to BMCC and use nearby subway or bus routes to reach the campus.
+- Entrance or meeting location: Visitors should meet at the main entrance of BMCC before entering the festival area.
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. The festival location should provide accessible entrances and elevators for visitors with mobility needs.
+2. Visitors who need additional assistance should be able to request accommodations from festival staff.
 
 ## Visitor Reminder
 
